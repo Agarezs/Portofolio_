@@ -21,8 +21,13 @@ This project is built using modern web technologies:
   - **Material UI** - React component library
   - **SweetAlert2** - Beautiful alert dialogs
 
+Frontend: [HTML5], [CSS3 (Sass/Tailwind CSS)], [JavaScript], [React.js], [Next.js]
+Backend & Database: [Supabase],
+DevOps & Deployment: [Git], [GitHub], [Vercel]
+Desain & Tools: [VS Code]
 
 **Enggartiasto Raharjo**
 
   - Website: [agarez.my.id](https://portofolio-one-jet.vercel.app/)
   - GitHub: [Agarezs](https://github.com/Agarezs)
+
