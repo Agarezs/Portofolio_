@@ -6,7 +6,7 @@ Let me introduce myself, I'm **Enggartiasto Raharjo**. On this occasion, I'd lik
 
 ## 🚀 Live Demo
 
-**Website Link:** https:www.agarez.my.id
+**Website Link:** https://www.agarez.my.id
 
 ## 🛠️ Tech Stack
 
@@ -28,8 +28,9 @@ This project is built using modern web technologies:
 
 **Enggartiasto Raharjo**
 
-  - Website: [agarez.my.id](https://portofolio-one-jet.vercel.app/)
+  - Website: [agarez.my.id](https://agarez.my.id)
   - GitHub: [Agarezs](https://github.com/Agarezs)
+
 
 
 
