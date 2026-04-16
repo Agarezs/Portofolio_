@@ -6,7 +6,7 @@ Let me introduce myself, I'm **Enggartiasto Raharjo**. On this occasion, I'd lik
 
 ## 🚀 Live Demo
 
-**Website Link:** https://agarez.my.id
+**Website Link:** https://garmin.web.id
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +32,7 @@ If you have any questions, feel free to reach out!
 
 **Enggartiasto Raharjo**
 
-  - Website: [agarez.my.id](https://agarez.my.id)
+  - Website: [agarez.my.id](https://garmin.web.id)
   - GitHub: [Agarezs](https://github.com/Agarezs)
 
 
